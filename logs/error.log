@@ -1,0 +1,13 @@
+2023-10-07 22:40:48 - [31merror[39m: [31mNão foi possível conectar ao MongoDB[39m
+2023-10-09 10:56:20 - [31merror[39m: [31mNão foi possível conectar ao MongoDB[39m
+2023-10-09 11:58:22 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "652413a6fce72782c8b6a8bw" (type string) at path "_id" for model "Movie"[39m
+2023-10-09 11:58:33 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "652413a6fce72782c8b6a8bw" (type string) at path "_id" for model "Movie"[39m
+2023-10-09 12:00:12 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "652413a6fce72782c8b6a8bc2313" (type string) at path "_id" for model "Movie"[39m
+2023-10-09 12:01:17 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "652413a6fce72782c8b6a8bc2313" (type string) at path "_id" for model "Movie"[39m
+2023-10-09 12:02:03 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "652413a6fce72782c8b6a8bc2313" (type string) at path "_id" for model "Movie"[39m
+2023-10-09 12:04:18 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "all" (type string) at path "_id" for model "Movie"[39m
+2023-10-09 12:04:31 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "all" (type string) at path "_id" for model "Movie"[39m
+2023-10-09 12:10:50 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "65240d99af01c363225eb2d9123" (type string) at path "_id" for model "Movie"[39m
+2023-10-09 12:12:11 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "65240d99af01c363225eb2d9123" (type string) at path "_id" for model "Movie"[39m
+2023-10-09 12:13:51 - [31merror[39m: [31mErro no sistema: movie.delete is not a function[39m
+2023-10-09 12:14:18 - [31merror[39m: [31mErro no sistema: movie.delete is not a function[39m

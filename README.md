@@ -61,5 +61,4 @@ DB_PASS=suaSenha
 
 Após colocar suas informações no arquivo, acesse `config > default.ts` e altere o campo "dbUri", mas mantenha as variáveis "dbUser" e "dbPass" na posição correta.
 
-**// Projeto retirado do meu repositório pessoal de estudos.
-**
+## Projeto retirado do meu repositório pessoal de estudos.
